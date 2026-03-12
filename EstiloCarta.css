@@ -8,8 +8,12 @@ body {
     background-color: antiquewhite;
     padding: 50px 20px;
     justify-content: center;
-    min-height: 80vh;
-    margin: auto;
+    margin: 0;
+    display: flex;
+}
+.folha-carta{
+    
     max-width: 600px;
-
+    width: 100%; 
+    margin: 0 auto;
 }
