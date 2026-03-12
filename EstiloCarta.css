@@ -6,12 +6,13 @@
 
 body {
     background-color: antiquewhite;
-    padding: 60px 80px;
+    padding: 50px 20px;
     justify-content: center;
     min-height: 80vh;
     margin: auto;
     max-width: 600px;
 }
+
 
 
 
