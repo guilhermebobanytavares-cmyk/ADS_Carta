@@ -1,0 +1,11 @@
+
+.conteudo-carta {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 3em;
+}
+
+body {
+    margin: 100px;
+    border-width: 50%;
+    background-color: antiquewhite;
+}
