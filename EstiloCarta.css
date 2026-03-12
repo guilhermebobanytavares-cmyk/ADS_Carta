@@ -5,8 +5,13 @@
 }
 
 body {
-    margin: 200px;
     background-color: antiquewhite;
+    padding: 60px 80px;
+    justify-content: center;
+    min-height: 80vh;
+    margin: auto;
+    max-width: 600px;
 }
+
 
 
